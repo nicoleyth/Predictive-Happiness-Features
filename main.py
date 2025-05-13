@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from Partition import Partition, Example
+from scipy.stats import entropy
 import statistics as stats
 
 ################################################################################
